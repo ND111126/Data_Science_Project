@@ -464,7 +464,7 @@ def render_filters(df_raw: pd.DataFrame) -> pd.DataFrame:
 
         st.divider()
         st.caption("Python · Pandas · Plotly · Streamlit")
-        st.caption("O7 Services — Data Analytics Internship")
+        st.caption("Made by Niyati ~ DAV Institute Of Engineering And Technology")
 
     f_year = st.session_state.get("f_year", years)
     f_state = st.session_state.get("f_state", states)
