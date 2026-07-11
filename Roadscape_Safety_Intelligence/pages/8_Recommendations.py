@@ -110,4 +110,4 @@ with r2:
     )
 
 st.markdown('<hr class="rs-divider">', unsafe_allow_html=True)
-st.caption("RoadScape — Road Safety Intelligence Platform · O7 Services Data Analytics Internship Project")
+st.caption("RoadScape — Road Safety Intelligence Platform · Niyati · DAV Institute Of Engineering And Technology")
