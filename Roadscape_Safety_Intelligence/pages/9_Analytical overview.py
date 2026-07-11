@@ -314,4 +314,4 @@ with st.expander("⚖️ Composite Risk Intelligence — scoring and ranking sta
     )
 
 st.markdown('<hr class="rs-divider">', unsafe_allow_html=True)
-st.caption("RoadScape — Road Safety Intelligence Platform · O7 Services Data Analytics Internship Project")
+st.caption("RoadScape — Road Safety Intelligence Platform · Made by Niyati · DAV Institute Of Engineering And Technology")
