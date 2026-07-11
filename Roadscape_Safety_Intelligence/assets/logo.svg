@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="20" fill="#0B0E14"/>
+  <rect x="10" y="52" width="100" height="16" rx="4" fill="#232838"/>
+  <rect x="18" y="58" width="14" height="4" rx="2" fill="#F5A623"/>
+  <rect x="42" y="58" width="14" height="4" rx="2" fill="#F5A623"/>
+  <rect x="66" y="58" width="14" height="4" rx="2" fill="#F5A623"/>
+  <rect x="90" y="58" width="14" height="4" rx="2" fill="#F5A623"/>
+  <circle cx="60" cy="40" r="14" fill="#FF3B4E"/>
+  <path d="M60 30 L64 40 L60 50 L56 40 Z" fill="#0B0E14"/>
+  <text x="60" y="96" font-family="Arial, sans-serif" font-size="14" font-weight="700"
+        fill="#E7EAF2" text-anchor="middle">RoadScape</text>
+</svg>
